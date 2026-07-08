@@ -1,0 +1,13 @@
+{
+  "name": "AAA Metal Roofing — Roofing Contractor",
+  "short_name": "AAA Metal Roofing",
+  "description": "Licensed & insured roofing contractor in Sydney, NSW — replacement, repair, and storm damage.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101B26",
+  "theme_color": "#101B26",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/icons/icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
